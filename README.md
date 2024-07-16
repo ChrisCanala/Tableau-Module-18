@@ -20,13 +20,13 @@ Analysis:
 
 CitiBike Map
 
-The data shows a map of all of the Stations in Jersey City. Over the three months of data the the hottest station were the ones in downtown Hoboken and Downtown Jersey City. The farther away from those areas the less stations and less popularity. locations for rides remains in central Manhattan for all three months.
+The data shows a map of all of the Stations in Jersey City. Over the three months of data the the hottest station were the ones in downtown Hoboken and Downtown Jersey City. The farther away from those areas the less stations and less popularity.
 
 Total Statistics
 
 On this dashboard we see the total values for the 3 months and can see some interesting trends.
 
-Majority of the rides are less than 5 minutes with majority of all rides beening less than 20 minutes. It is interesting to look at the avg ride duration of non members as they are nearly double that of memebers which could be due to them being tourists and not as familiar with the area.
+Majority of the rides are less than 5 minutes with majority of all rides beening less than 20 minutes. It is interesting to look at the avg ride duration of non members as they are nearly double that of members which could be due to them being tourists and not as familiar with the area.
 
 Popular Stations
 
